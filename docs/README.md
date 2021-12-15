@@ -7,7 +7,7 @@ npm i mooc-ui-wzq
 ```
 
 #### 使用组件库
->在main.js中引用组件库
+在main.js中引用组件库
 ```javascript
 // 全部引入
 import 'mooc-ui-wzq/css/index.css';

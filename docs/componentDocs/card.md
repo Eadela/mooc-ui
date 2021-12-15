@@ -1,7 +1,7 @@
 ### card组件库
 
 ### 示例
-<card imgSrc="/logo.png" summary="Vue"></card>
+<card imgSrc="/mooc-ui/logo.png" summary="Vue"></card>
 
 ### 代码
 ```html
